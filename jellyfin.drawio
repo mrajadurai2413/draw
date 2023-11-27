@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T06:12:25.105Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="J-zfjHwF1JaSsnS53Eef" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T06:19:05.465Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Q9qn6VpGLO1Kgn_PmUY7" version="21.7.5" type="github">
   <diagram name="Page-1" id="SnmRiz9z7K-RX8SFdi7z">
     <mxGraphModel dx="2164" dy="2771" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="P2aj_EFRLsjrDS_CDm4O-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="-1420" width="142.5" height="324.37" as="geometry" />
         </mxCell>
-        <mxCell id="P2aj_EFRLsjrDS_CDm4O-165" value="Android Server Client" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="P2aj_EFRLsjrDS_CDm4O-165" value="Android Server Client App" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="108" y="-1420" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P2aj_EFRLsjrDS_CDm4O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="P2aj_EFRLsjrDS_CDm4O-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/514643/androtainer.svg;imageBackground=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;" parent="P2aj_EFRLsjrDS_CDm4O-149" vertex="1">
           <mxGeometry x="13.847357859531753" y="14.924548494983252" width="62.30769230769231" height="62.30769230769231" as="geometry" />
         </mxCell>
-        <mxCell id="P2aj_EFRLsjrDS_CDm4O-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;dashed=1;strokeColor=#006EAF;fillColor=#1ba1e2;flowAnimation=1;dashPattern=1 4;" parent="1" source="P2aj_EFRLsjrDS_CDm4O-108" target="P2aj_EFRLsjrDS_CDm4O-57" edge="1">
+        <mxCell id="P2aj_EFRLsjrDS_CDm4O-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;dashed=1;strokeColor=#006EAF;fillColor=#1ba1e2;flowAnimation=1;verticalAlign=middle;dashPattern=1 4;" parent="1" source="P2aj_EFRLsjrDS_CDm4O-108" target="P2aj_EFRLsjrDS_CDm4O-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P2aj_EFRLsjrDS_CDm4O-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;dashPattern=1 4;flowAnimation=1;strokeWidth=2;endArrow=none;endFill=0;" parent="1" edge="1">
@@ -152,9 +152,9 @@
             <mxPoint x="-191.22000000000003" y="-1185.21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P2aj_EFRLsjrDS_CDm4O-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;fillColor=#1ba1e2;strokeColor=#006EAF;flowAnimation=1;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="P2aj_EFRLsjrDS_CDm4O-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;fillColor=#1ba1e2;strokeColor=#006EAF;flowAnimation=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-385.5" y="-1285.75" as="sourcePoint" />
+            <mxPoint x="-388" y="-1284" as="sourcePoint" />
             <mxPoint x="140" y="-1289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
